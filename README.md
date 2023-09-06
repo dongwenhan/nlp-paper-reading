@@ -11,6 +11,7 @@
 - [Dialogue System](#dialogue-system)
     - [Background Based Conversation](#background-based-conversation)
     - [Dataset for Dialogue](#dataset-for-dialogue)
+    - [Emotional Dialogue](#emotional-dialogue)
 
 ## Dialogue System
 
@@ -34,3 +35,7 @@
 * **OpenSubtitles2016**: OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles. LREC-2016 [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/summaries/947.html) [[data]](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
 * **Ubuntu Dialogue Corpus**: The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems. SIGDIAL-2015 [[paper]](https://www.aclweb.org/anthology/W15-4640/) [[data]](http://www.cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0)
 * **Cornell Movie Dialogs Corpus**: Chameleons in Imagined Conversations: A New Approach to Understanding Coordination of Linguistic Style in Dialogs. CMCL@ACL-2011 [[paper]](https://www.aclweb.org/anthology/W11-0609/) [[data]](https://www.cs.cornell.edu/~cristian/Chameleons_in_imagined_conversations.html)
+
+### Emotional Dialogue
+
+* **MOJITALK**: MOJITALK: Generating Emotional Responses at Scale. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1104/)
