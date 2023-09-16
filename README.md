@@ -13,6 +13,7 @@
     - [Dataset for Dialogue](#dataset-for-dialogue)
     - [Emotional Dialogue](#emotional-dialogue)
     - [Evaluation of Dialogue](#evaluation-of-dialogue)
+    - [Knowledge Grounded Dialogue](#knowledge-grounded-dialogue)
 
 ## Dialogue System
 
@@ -48,3 +49,17 @@
 * **υBLEU**: υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-srw.27/) [[code&datasets]](http://www.tkl.iis.u-tokyo.ac.jp/~tsuta/acl-srw-2020/)
 * **Empirical Study**: How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation. EMNLP-2016 [[paper]](https://www.aclweb.org/anthology/D16-1230/)
 * **BLEU**: BLEU: a Method for Automatic Evaluation of Machine Translation. ACL-2002 [[paper]](https://www.aclweb.org/anthology/P02-1040/)
+
+### Knowledge Grounded Dialogue
+
+* **HADG**: Knowledge-aware Dialogue Generation with Hybrid Attention (Student Abstract). AAAI-2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17972)
+* **ConKADI**: Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.515/) [[code]](https://github.com/pku-sixing/ACL2020-ConKADI)
+* **Div-Non-Conv**: Diversifying Dialogue Generation with Non-Conversational Text. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.634/) [[code]](https://github.com/chin-gyou/Div-Non-Conv)
+* **KIC**: Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.6/)
+* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[paper]](https://openreview.net/forum?id=rJeIcTNtvS)
+* **PIPM-KDBTS**: Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. EMNLP-2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.275/) [[code]](https://github.com/youngornever/bridge_latent_knowledge_selection_gap_for_conversation)
+* **TransDG**: Improving Knowledge-Aware Dialogue Generation via Knowledge Base Question Answering. AAAI-2020 [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6453) [[code]](https://github.com/siat-nlp/TransDG)
+* **ZRKGC**: Zero-Resource Knowledge-Grounded Dialogue Generation. NeurIPS-2020 [[paper]](https://proceedings.neurips.cc/paper/2020/hash/609c5e5089a9aa967232aba2a4d03114-Abstract.html) [[code]](https://github.com/nlpxucan/ZRKGC)
+* **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[paper]](https://www.ijcai.org/proceedings/2019/0706/) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
+* **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1136/) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
+* **NKD**: Knowledge Diffusion for Neural Dialogue Generation. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1138/) [[code]](https://github.com/liushuman/neural-knowledge-diffusion)
