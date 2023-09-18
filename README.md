@@ -14,6 +14,7 @@
     - [Emotional Dialogue](#emotional-dialogue)
     - [Evaluation of Dialogue](#evaluation-of-dialogue)
     - [Knowledge Grounded Dialogue](#knowledge-grounded-dialogue)
+    - [Open-domain Dialogue](#open-domain-dialogue)
 
 ## Dialogue System
 
@@ -63,3 +64,18 @@
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[paper]](https://www.ijcai.org/proceedings/2019/0706/) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1136/) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 * **NKD**: Knowledge Diffusion for Neural Dialogue Generation. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1138/) [[code]](https://github.com/liushuman/neural-knowledge-diffusion)
+
+### Open-domain Dialogue
+
+* **MDFN**: Filling the Gap of Utterance-aware and Speaker-aware Representation for Multi-turn Dialogue. AAAI-2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17582) [[code]](https://github.com/comprehensiveMap/MDFN)
+* **Adp Multi-CL**: Learning from Easy to Complex: Adaptive Multi-Curricula Learning for Neural Dialogue Generation. AAAI-2020 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6244)
+* **DialogRPT**: Dialogue Response Ranking Training with Large-Scale Human Feedback Data. EMNLP-2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.28/) [[code]](https://github.com/golsun/DialogRPT)
+* **PS**: Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory. arXiv-2020 [[paper]](https://arxiv.org/abs/2004.02214)
+* **Edit-N-Rerank**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4714) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
+* **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[paper]](https://www.aclweb.org/anthology/D19-1195/) [[code]](https://github.com/jcyk/seqgen)
+* **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[paper]](https://www.aclweb.org/anthology/N19-1124/)
+* **NEXUS**: NEXUS Network: Connecting the Preceding and the Following in Dialogue Generation. EMNLP-2018 [[paper]](https://www.aclweb.org/anthology/D18-1463/)
+* **CVAE**: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders. ACL-2017 [[paper]](https://www.aclweb.org/anthology/P17-1061/)
+* **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[paper]](https://www.aclweb.org/anthology/D16-1127/)
+* **MMI**: A Diversity-Promoting Objective Function for Neural Conversation Models. NAACL-2016 [[paper]](https://www.aclweb.org/anthology/N16-1014/)
+* **NCM**: A Neural Conversational Model. arXiv-2015 [[paper]](https://arxiv.org/abs/1506.05869)
