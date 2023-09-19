@@ -15,6 +15,7 @@
     - [Evaluation of Dialogue](#evaluation-of-dialogue)
     - [Knowledge Grounded Dialogue](#knowledge-grounded-dialogue)
     - [Open-domain Dialogue](#open-domain-dialogue)
+    - [Personalized Dialogue](#personalized-dialogue)
 
 ## Dialogue System
 
@@ -79,3 +80,28 @@
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[paper]](https://www.aclweb.org/anthology/D16-1127/)
 * **MMI**: A Diversity-Promoting Objective Function for Neural Conversation Models. NAACL-2016 [[paper]](https://www.aclweb.org/anthology/N16-1014/)
 * **NCM**: A Neural Conversational Model. arXiv-2015 [[paper]](https://arxiv.org/abs/1506.05869)
+
+### Personalized Dialogue
+
+* **DHAP**: One Chatbot Per Person: Creating Personalized Chatbots based on Implicit User Profiles. SIGIR-2021 [[paper]](https://dl.acm.org/doi/10.1145/3404835.3462828) [[code]](https://github.com/zhengyima/DHAP)
+* **FewShot-PCM**: Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks. AAAI-2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17638) [[code]](https://github.com/tianzhiliang/FewShotPersonaConvData)
+* **SPD**: Detecting Speaker Personas from Conversational Texts. EMNLP-2021 [[paper]](https://aclanthology.org/2021.emnlp-main.86/) [[code]](https://github.com/JasonForJoy/SPD)
+* **GCC**: Large Scale Multi-Actor Generative Dialog Modeling. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.8/)
+* **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.516/)
+* **KvPI**: Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents. EMNLP-2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.539/) [[code]](https://github.com/songhaoyu/KvPI)
+* **P<sup>2</sup> Bot**: You Impress Me: Dialogue Generation via Mutual Persona Perception. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.131/) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
+* **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.7/)
+* **PEE**: A Neural Topical Expansion Framework for Unstructured Persona-Oriented Dialogue Generation. ECAI-2020 [[paper]](https://ebooks.iospress.nl/publication/55146)
+* **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6518)
+* **RCDG**: Generating Persona Consistent Dialogues by Exploiting Natural Language Inference. AAAI-2020 [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6417) [[code]](https://github.com/songhaoyu/RCDG)
+* **Self-Consciousness**: Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. EMNLP-2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.65/) [[code]](https://github.com/skywalker023/pragmatic-consistency)
+* **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1542/) [[code]](https://github.com/HLTCHKUST/PAML)
+* **PerCVAE**: Exploiting Persona Information for Diverse Generation of Conversational Responses. IJCAI-2019 [[paper]](https://www.ijcai.org/Proceedings/2019/0721/) [[code]](https://github.com/vsharecodes/percvae)
+* **PerDG**: Personalized Dialogue Generation with Diversified Traits. arXiv-2019 [[paper]](https://arxiv.org/abs/1901.09672)
+* **NPRG-DM**: Neural personalized response generation as domain adaptation. WWW-2018 [[paper]](https://link.springer.com/article/10.1007%2Fs11280-018-0598-6)
+* **PCCM**: Assigning Personality Profile to a Chatting Machine for Coherent Conversation Generation. IJCAI-2018 [[paper]](https://www.ijcai.org/Proceedings/2018/0595/)
+* **PerDA**: Training Millions of Personalized Dialogue Agents. EMNLP-2018 [[paper]](https://www.aclweb.org/anthology/D18-1298/)
+* **CoPerHED**: Exploring Personalized Neural Conversational Models. IJCAI-2017 [[paper]](https://www.ijcai.org/proceedings/2017/0521/)
+* **PRG-DM**: Personalized Response Generation via Domain adaptation. SIGIR-2017 [[paper]](https://dl.acm.org/doi/10.1145/3077136.3080706)
+* **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[paper]](https://www.aclweb.org/anthology/P16-1094/)
+* **PERSONAGE**: PERSONAGE: Personality Generation for Dialogue. ACL-2007 [[paper]](https://www.aclweb.org/anthology/P07-1063/)
