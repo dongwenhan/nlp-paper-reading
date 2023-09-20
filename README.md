@@ -16,6 +16,7 @@
     - [Knowledge Grounded Dialogue](#knowledge-grounded-dialogue)
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)
+    - [Survey on Dialogue](#survey-on-dialogue)
 
 ## Dialogue System
 
@@ -105,3 +106,10 @@
 * **PRG-DM**: Personalized Response Generation via Domain adaptation. SIGIR-2017 [[paper]](https://dl.acm.org/doi/10.1145/3077136.3080706)
 * **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[paper]](https://www.aclweb.org/anthology/P16-1094/)
 * **PERSONAGE**: PERSONAGE: Personality Generation for Dialogue. ACL-2007 [[paper]](https://www.aclweb.org/anthology/P07-1063/)
+
+### Survey on Dialogue
+
+* **A Systematic Survey**: Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey. arXiv-2021 [[paper]](https://arxiv.org/abs/2105.04387)
+* **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[paper]](https://dl.acm.org/doi/10.1145/3383123)
+* **Recipes**: Recipes for building an open-domain chatbot. arXiv-2020 [[paper]](https://arxiv.org/abs/2004.13637)
+* **Recent Advances and New Frontiers**: A Survey on Dialogue Systems: Recent Advances and New Frontiers. SIGKDD-2017 [[paper]](https://dl.acm.org/doi/10.1145/3166054.3166058)
