@@ -17,6 +17,7 @@
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)
     - [Survey on Dialogue](#survey-on-dialogue)
+    - [Task-oriented Dialogue](#task-oriented-dialogue)
 
 ## Dialogue System
 
@@ -113,3 +114,17 @@
 * **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[paper]](https://dl.acm.org/doi/10.1145/3383123)
 * **Recipes**: Recipes for building an open-domain chatbot. arXiv-2020 [[paper]](https://arxiv.org/abs/2004.13637)
 * **Recent Advances and New Frontiers**: A Survey on Dialogue Systems: Recent Advances and New Frontiers. SIGKDD-2017 [[paper]](https://dl.acm.org/doi/10.1145/3166054.3166058)
+
+### Task-oriented Dialogue
+
+* **DAST**: A Student-Teacher Architecture for Dialog Domain Adaptation under the Meta-Learning Setting. AAAI-2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17614)
+* **DDMN**: Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems. COLING-2020 [[paper]](https://www.aclweb.org/anthology/2020.coling-main.362/) [[code]](https://github.com/siat-nlp/DDMN)
+* **DF-Net**: Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.565/) [[code]](https://github.com/LooperXX/DF-Net)
+* **MALA**: MALA: Cross-Domain Dialogue Generation with Action Learning. AAAI-2020 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6306)
+* **BossNet**: Disentangling Language and Knowledge in Task-Oriented Dialogs. NAACL-2019 [[paper]](https://www.aclweb.org/anthology/N19-1126/) [[code]](https://github.com/dair-iitd/BossNet)
+* **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[paper]](https://openreview.net/forum?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
+* **KB Retriever**: Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever. EMNLP-2019 [[paper]](https://www.aclweb.org/anthology/D19-1013/) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue)
+* **TRADE**: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems. ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1078/) [[code]](https://github.com/jasonwu0731/trade-dst)
+* **DSR**: Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. COLING-2018 [[paper]](https://www.aclweb.org/anthology/C18-1320/)
+* **StateNet**: Towards Universal Dialogue State Tracking. EMNLP-2018 [[paper]](https://www.aclweb.org/anthology/D18-1299/)
+* **TSCP**: Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1133/) [[code]](https://github.com/WING-NUS/sequicity)
