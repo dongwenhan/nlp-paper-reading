@@ -18,6 +18,7 @@
     - [Personalized Dialogue](#personalized-dialogue)
     - [Survey on Dialogue](#survey-on-dialogue)
     - [Task-oriented Dialogue](#task-oriented-dialogue)
+- [Pre-trained Language Model](#pre-trained-language-model)
 
 ## Dialogue System
 
@@ -128,3 +129,12 @@
 * **DSR**: Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. COLING-2018 [[paper]](https://www.aclweb.org/anthology/C18-1320/)
 * **StateNet**: Towards Universal Dialogue State Tracking. EMNLP-2018 [[paper]](https://www.aclweb.org/anthology/D18-1299/)
 * **TSCP**: Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. ACL-2018 [[paper]](https://www.aclweb.org/anthology/P18-1133/) [[code]](https://github.com/WING-NUS/sequicity)
+
+## Pre-trained Language Model
+
+* **ALBERT**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR-2020 [[paper]](https://openreview.net/forum?id=H1eA7AEtvS) [[code]](https://github.com/google-research/ALBERT)
+* **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[paper]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
+* **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities. ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1139/) [[code]](https://github.com/thunlp/ERNIE)
+* **Interpret_BERT**: What does BERT learn about the structure of language? ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1356/) [[code]](https://github.com/ganeshjawahar/interpret_bert)
+* **UniLM**: Unified Language Model Pre-training for Natural Language Understanding and Generation. NeurIPS-2019 [[paper]](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [[code]](https://github.com/microsoft/unilm)
+* **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NeurIPS-2019 [[paper]](https://proceedings.neurips.cc/paper/2019/hash/dc6a7e655d7e5840e66733e9ee67cc69-Abstract.html) [[code]](https://github.com/zihangdai/xlnet)
