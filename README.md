@@ -21,6 +21,7 @@
 - [Pre-trained Language Model](#pre-trained-language-model)
 - [Text Summarization](#text-summarization)
     - [Abstractive](#abstractive)
+- [Transformer Series](#transformer-series)
 ## Dialogue System
 
 ### Background Based Conversation
@@ -145,3 +146,11 @@
 ### Abstractive
 
 * **GTTP**: Get To The Point: Summarization with Pointer-Generator Networks. ACL-2017 [[paper]](https://www.aclweb.org/anthology/P17-1099/) [[code]](https://github.com/abisee/pointer-generator)
+
+## Transformer Series
+
+* **GRET**: GRET: Global Representation Enhanced Transformer. AAAI-2020 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6464)
+* **Reformer**: REFORMER: THE EFFICIENT TRANSFORMER. ICLR-2020 [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://github.com/google/trax/tree/master/trax/models/reformer)
+* **Transformer-XL**: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1285/) [[code]](https://github.com/kimiyoung/transformer-xl)
+* **Universal Transformers**: UNIVERSAL TRANSFORMERS. ICLR-2019 [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7) [[code]](https://github.com/tensorflow/tensor2tensor)
+* **Transformer**: Attention Is All You Need. NeurIPS-2017 [[paper]](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
