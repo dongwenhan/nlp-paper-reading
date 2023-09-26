@@ -22,6 +22,7 @@
 - [Text Summarization](#text-summarization)
     - [Abstractive](#abstractive)
 - [Transformer Series](#transformer-series)
+- [Word Embedding](#word-embedding)
 ## Dialogue System
 
 ### Background Based Conversation
@@ -154,3 +155,10 @@
 * **Transformer-XL**: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019 [[paper]](https://www.aclweb.org/anthology/P19-1285/) [[code]](https://github.com/kimiyoung/transformer-xl)
 * **Universal Transformers**: UNIVERSAL TRANSFORMERS. ICLR-2019 [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7) [[code]](https://github.com/tensorflow/tensor2tensor)
 * **Transformer**: Attention Is All You Need. NeurIPS-2017 [[paper]](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
+## Word Embedding
+
+* **Doc2Vec**: Distributed Representations of Sentences and Documents. ICML-2014 [[paper]](http://proceedings.mlr.press/v32/le14.html)
+* **Glove**: GloVe: Global Vectors for Word Representation. EMNLP-2014 [[paper]](https://www.aclweb.org/anthology/D14-1162/) [[code]](https://github.com/stanfordnlp/GloVe)
+* **Word2Vec-Extension**: Distributed Representations of Words and Phrases and their Compositionality. NeurIPS-2013 [[paper]](https://proceedings.neurips.cc/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)
+* **Word2Vec-Oringinal**: Efficient Estimation of Word Representations in Vector Space. ICLR Workshop Poster-2013 [[paper]](https://arxiv.org/abs/1301.3781) [[code]](https://code.google.com/p/word2vec/)
